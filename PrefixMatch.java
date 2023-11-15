@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Lab4{
+public class PrefixMatch{
     public static void main(String args[]){
         
         Trie trie = new Trie();
