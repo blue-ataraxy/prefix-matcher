@@ -1,4 +1,4 @@
 # Prefix Matcher
 
-Compile instructions: "javac PrefixMatch"
-Run instructions: "java PrefixMatch commands"
+* Compile instructions: "javac PrefixMatch"
+* Run instructions: "java PrefixMatch commands"
